@@ -1,3 +1,5 @@
+/* SPDX-License-Identifier: BSD-3-Clause */
+
 package it.mds.sdk.aljavalib.module.deserializer;
 
 import com.fasterxml.jackson.core.JsonParser;

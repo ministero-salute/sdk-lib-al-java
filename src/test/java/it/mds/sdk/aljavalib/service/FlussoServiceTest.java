@@ -1,3 +1,5 @@
+/* SPDX-License-Identifier: BSD-3-Clause */
+
 package it.mds.sdk.aljavalib.service;
 
 import it.mds.sdk.aljavalib.exception.AccessLayerException;
